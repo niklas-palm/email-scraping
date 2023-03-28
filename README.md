@@ -4,7 +4,7 @@ Simple webscraper that takes a depth and a list of urls, and stores all email ad
 
 ### Prerequisites
 
-- python installed
+- python installed. Instructions can be found [here](https://www.python.org/downloads/)
 
 ### Usage
 
